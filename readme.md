@@ -1,4 +1,8 @@
 # Liskov substitution principle
+Typescript exercise for the BeCode webdevelopment course. Improved the old typescript file (also in this repository) based on SOLID's Liskov Substitution principle.<br>
+Link: https://jelle-vdp.github.io/typescript-liskov-substitution-principle/
+
+## About LSP
 "Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program." See also [design by contract](https://en.wikipedia.org/wiki/Design_by_contract).
 
 ### Polymorphism
