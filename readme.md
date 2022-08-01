@@ -1,5 +1,5 @@
 # Liskov substitution principle
-Typescript exercise for the BeCode webdevelopment course. Improved the old typescript file (also in this repository) based on SOLID's Liskov Substitution principle.<br>
+Typescript exercise for the BeCode webdevelopment course. Improved the old typescript file (also in this repository) based on SOLID's Liskov Substitution Principle.<br>
 Link: https://jelle-vdp.github.io/typescript-liskov-substitution-principle/
 
 ## About LSP
